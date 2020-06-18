@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Repository is API application is made with Ruby on Rails.
 
-Things you may want to cover:
+This is for learning warden.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please see [wardencommunity/warden](https://github.com/wardencommunity/warden)
